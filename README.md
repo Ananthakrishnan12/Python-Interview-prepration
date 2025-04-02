@@ -19,8 +19,8 @@ This repository contains a collection of Python coding questions that are common
 ## 🚀 Python Coding Questions
 
 ### 🔹 String & List Operations
-1.[Reverse a string ➝ Click here](https://github.com/Ananthakrishnan12/Python-Interview-prepration/blob/main/Solutions/Question1.py)
-2.[Reverse a string in a list ➝ Click here](https://github.com/Ananthakrishnan12/Python-Interview-prepration/blob/main/Solutions/Question2.py) (Input: `["h","e","l","l","o"]`) 
+1. Reverse a string.
+2. Reverse a string in a list. (Input: `["h","e","l","l","o"]`)
 3. Reverse an array. (Input: `[1,2,3,4,5]`)
 4. Check if a string is a palindrome. (Leetcode Q: 125)
 5. Check if a number is a palindrome. (Input: `12321`)
